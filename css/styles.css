@@ -82,7 +82,7 @@ body {
   font-size: var(--bs-body-font-size);
   font-weight: var(--bs-body-font-weight);
   line-height: var(--bs-body-line-height);
-  color: var(--bs-body-color);
+  color: #3a3021;
   text-align: var(--bs-body-text-align);
   background-color: #ffffff;
   -webkit-text-size-adjust: 100%;
@@ -3030,7 +3030,7 @@ textarea.form-control-lg {
 
 .btn-primary {
   color: #fff;
-  background-color: #3a3021;
+  background-color: #f4623a;
   border-color: #ed6b08;
 }
 .btn-primary:hover {
