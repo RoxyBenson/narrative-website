@@ -100,7 +100,7 @@ hr {
 
 
 h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
-  margin-top: 10mm;
+  margin-top: 0mm;
   margin-bottom: 0.5rem;
   font-family:'PT Serif', serif;
   font-weight: 500;
@@ -7491,8 +7491,8 @@ textarea.form-control-lg {
 }
 
 .py-5 {
-  padding-top: 3rem !important;
-  padding-bottom: 3rem !important;
+  padding-top: 0rem !important;
+  padding-bottom: 0rem !important;
 }
 
 .pt-0 {
@@ -7761,7 +7761,7 @@ textarea.form-control-lg {
 
 .text-white {
   --bs-text-opacity: 1;
-  color: #ffff
+  color: #000
 }
 
 .text-body {
@@ -7842,7 +7842,7 @@ textarea.form-control-lg {
 
 .bg-dark {
   --bs-bg-opacity: 1;
-  background-color: #483e36;
+  background-color: #ffff;
 }
 
 .bg-black {
@@ -11298,7 +11298,7 @@ body {
 
 
 .text-white-75 {
-  color: #212529 !important;
+  color: #ffc107;!important;
 }
 
 .btn-xl {
