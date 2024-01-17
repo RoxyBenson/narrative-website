@@ -82,7 +82,7 @@ body {
   font-size: var(--bs-body-font-size);
   font-weight: var(--bs-body-font-weight);
   line-height: var(--bs-body-line-height);
-  color: #3a3021;
+  color: #000;
   text-align: var(--bs-body-text-align);
   background-color: #ffffff;
   -webkit-text-size-adjust: 100%;
@@ -104,7 +104,7 @@ h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
   margin-bottom: 0rem;
   font-family:'PT Serif', serif;
   font-weight: 500;
-  line-height: 1.2;
+  line-height: 1.5;
 }
 
 h1, .h1 {
@@ -117,11 +117,11 @@ h1, .h1 {
 }
 
 h2, .h2 {
-  font-size: calc(1.325rem + 0.9vw);
+  font-size: ;
 }
 @media (min-width: 1200px) {
   h2, .h2 {
-    font-size: 2rem;
+    font-size: ;
   }
 }
 
@@ -1398,7 +1398,7 @@ progress {
 
   .col-lg-8 {
     flex: 0 0 auto;
-    width: 66.66666667%;
+    width: 100%;
   }
 
   .col-lg-9 {
@@ -2767,7 +2767,7 @@ textarea.form-control-lg {
   line-height: 1.5;
   color: #212529;
   text-align: center;
-  white-space: nowrap;
+  white-space: ;
   background-color: #e9ecef;
   border: 1px solid #ced4da;
   border-radius: 0.25rem;
